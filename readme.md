@@ -18,8 +18,14 @@ Larger examples might go here.
 - [Random dots](#random-dots)  
 
 #### External resources
-
 If you wrote a tutorial about Flat, conducted a workshop and made the code available, etc., feel free to add a link to the work below.
+
+- Jupyter notebooks from the [Material of Language course](https://mol.decontextualize.com/) and [Bezmerizing library](https://github.com/aparrish/bezmerizing/), by Allison Parrish:
+  - [Asemic writing with Flat](https://github.com/aparrish/material-of-language/blob/master/flat-asemic-writing.ipynb)
+  - [Interactive art with ipywidgets and Flat](https://github.com/aparrish/material-of-language/blob/master/interactive-widgets.ipynb)
+  - [Creating animations with Flat and ffmpeg](https://github.com/aparrish/material-of-language/blob/master/creating-animations.ipynb)
+  - [Bezmerizing demo notebook](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
+
 
 <!-- - [Title](link)   -->
 
